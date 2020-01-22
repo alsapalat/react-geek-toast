@@ -26,8 +26,7 @@ const toast = async (content, options = {}) => {
   let alertRef = null;
   const opt = {
     className: 'geekalert',
-    // timeout: 4000,
-    timeout: 100000,
+    timeout: 4000,
     divId: 'toast-override',
     icon: false,
     ...options,

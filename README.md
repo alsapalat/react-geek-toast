@@ -5,7 +5,7 @@ Toast Component for react.
 *for geeks*
 
 ```
-import ToastMarker, { toastSuccess, toastWarning, toastInfo, toastError } from './toast';
+import ToastMarker, { toastSuccess, toastWarning, toastInfo, toastError } from 'react-geek-toast';
 
 ...
 // put this somewhere in app
